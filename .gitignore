@@ -1,0 +1,17 @@
+# Ignore everything by default
+*
+
+# Allow directories
+!*/
+
+# Source files
+!*.cpp
+!*.c
+!*.py
+!*.java
+
+# Config and docs
+!*.md
+!*.txt
+!*.json
+!.gitignore
